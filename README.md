@@ -13,7 +13,7 @@
 
 
 ### Portfolio
-[My Portfolio](ivangibson.com)
+[My Portfolio](https://ivangibsonportfolio.herokuapp.com/)
 
    My personal Portfolio. I made this as a way to showcase my own current and future work as a developer. I feel anyone even people with no desire to work freelance should still have a portfolio. We create new and interesting things all the time and people should be proud to show it off. With this first version of my portfolio, I wanted to keep things looking standard and familiar so people are not confused on their first visit and looking where to go when they just want to send me a message. I plan to keep updating this throughout my career as I continue to learn and grow as well as change the design to keep it modern.
    
