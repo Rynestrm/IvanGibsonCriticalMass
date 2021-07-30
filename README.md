@@ -5,7 +5,7 @@
 ### ManUp
 [ManUp Site](https://stylesquadmanup.herokuapp.com)
 
-	The purpose of the ManUp group is to combat toxic masculinity and educate elementary to high school aged kids about it. The organization needed a website to help get their message out and a place to store all their audiovisual resources in one location.
+   The purpose of the ManUp group is to combat toxic masculinity and educate elementary to high school aged kids about it. The organization needed a website to help get their message out and a place to store all their audiovisual resources in one location.
    
    This project was done with 3 other people all filling various rolls. I took on the role of project lead, project coordinator and a front end developer. I was setting up milestones and then tasks to complete each milestone and deadlines for each of them, then assigning tasks to everyone including myself. I set up the basic layout of the overall site and the individual page layout. I also took the lead on the most of the CSS styling being done.
 
@@ -33,7 +33,7 @@ https://codepen.io/mecarter/pen/BnpsD
    
 ## Focus
 
-	 If I had the time and resources to learn or build anything I would have to say I would love to get a rock-solid understanding of CSS and vanilla JavaScript. So many things are based off of them, that understanding exactly how they work will make learning everything from the current Bootstrap 5 version, to a future version of React.js 30 or even a new JavaScript library that doesn’t exist yet, will be much simpler.
+   If I had the time and resources to learn or build anything I would have to say I would love to get a rock-solid understanding of CSS and vanilla JavaScript. So many things are based off of them, that understanding exactly how they work will make learning everything from the current Bootstrap 5 version, to a future version of React.js 30 or even a new JavaScript library that doesn’t exist yet, will be much simpler.
 
    If I could build anything I think it would have to be an accessibility app that I have had in my head for a while now. In my mind is it like “Yelp” but for people with accessibility issues. They cab post about how easy or hard public places are for them to get into or move around once you are there. I never have to think about a store front having a small lip at the front door or bathrooms being downstairs so a simple app that can get rid of any anxiety of someone who wants to visit a new place seems like an amazing idea to me.
 
