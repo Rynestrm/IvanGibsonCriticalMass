@@ -42,6 +42,7 @@ https://codepen.io/mecarter/pen/BnpsD
 ## Code Challenge
 
 Here is a link to my [CodeSandBox](https://codesandbox.io/s/2021-internship-exercise-menu-ivan-gibson-ioe6q?file=/index.html)
+
 This will not be edited or changed in anyway after July 30th 2021
 
 Thank you for taking the time to read this
