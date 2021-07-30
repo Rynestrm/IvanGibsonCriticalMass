@@ -23,12 +23,14 @@
 ## Inspiration
 
 https://www.shehzadasif.com/
+
    This is a portfolio I stumbled across recently and I found it fascinating to just watch how it changes as you scroll up and down or move the mouse over elements on the page. The middle circle acting like a “window” showing the photo negative color scheme of any element you can view through it including images was something I had never seen it done before and immediately caught my eye.
 
    I spent a long time just looking how it interacted with each element and wondering about how it might be done while forgetting it was a portfolio for a developer and not just a fun app to play with.
 
 
 https://codepen.io/mecarter/pen/BnpsD
+
    This cool little JS game was very interesting to see. I had never really thought of doing something like this. It got me thinking outside the box, about all the components needing to work together. Tracking mouse movements and tracking the shot and cube movements and watching for them to collide. I find myself playing with it but not trying to win, I was just watching how it all interacted.
    
 ## Focus
